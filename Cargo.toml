@@ -1,0 +1,10 @@
+[package]
+name = "delaystderr"
+version = "0.1.0"
+authors = ["Vladimir Shimansky <pat@ajabu.ru>"]
+
+[dependencies]
+futures = "0.2.0"
+tokio-process = "0.1.5"
+tokio-core = "0.1.16"
+tokio-io = "0.1.6"
